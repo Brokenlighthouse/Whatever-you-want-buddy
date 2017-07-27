@@ -1,0 +1,66 @@
+h1 {
+  color:#6dff9d;
+  font-family: monospace;
+}
+div div {
+  background-color: grey;
+  border-radius: 10px;
+  border: grey;
+  height: 35px;
+  padding-left: none;
+  padding-top: none
+}
+body {
+  background-color: black;
+}
+a {
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+}
+
+.block {
+  height: 50px;
+}
+.Backs {
+  background-color: grey;
+  border-radius: 10px;
+  border: grey;
+  border-width: 40px;
+  height: 12000px;
+  padding-left: 15px;
+  padding-top: 10px
+}
+form {
+  font-family: monospace;
+  font-size: 18px;
+}
+h3 {
+  font-family: monospace;
+}
+h2 {
+  font-family: monospace;
+}
+
+.artic {
+  background-color: grey;
+  padding-left: 15px;
+  padding-top: 10px;
+  border-radius: 10px;
+  border: #6d6d6d;
+  border-width: 40px;
+  padding-bottom: 10px;
+}
+
+p {
+  padding-top: 100px;
+  font-family: monospace;
+  font-size: 18px;
+  color:#6dff9d;
+}
+.red {
+  padding-top: 10px
+}
+.ptal{
+  font-size: 24px;
+}
